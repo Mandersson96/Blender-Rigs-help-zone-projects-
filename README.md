@@ -4,7 +4,7 @@ People of different experience helping me with Blender Projects
 
 Description below!
 
-Here is my first Blender character rig. I know, it's not that great but I'm learning and I'm happy with my first sorta-kinda humanoid character I've creaated.
+Here is my first Blender character rig. I know, it's not that great but I'm learning and I'm happy with my first sorta-kinda humanoid character I've created.
 
 Auto IK rig is on and parenting works fairly well with the arms but not so much for the legs and I can't figure the reason. 
 
