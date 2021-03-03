@@ -13,6 +13,8 @@ I've tried to undo all that I've done to the legs so that it's a fresh start.
 Hoping someone can help me on this rigging project as I'm still learning and I'd love to have it 
 fully rigged but understand how and why and what my underlying problems were to fix it for next time!
 
+Project available for download on my Github
+
 Thanks for all the help in advance!
 -Matt
 
